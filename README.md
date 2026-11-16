@@ -1,11 +1,11 @@
 <div align="center">
 
-# Latin-PZ
+# pz-forge
 
 **把不顺手的软件拆开、改顺，再放出来。**
 
-[![Repos](https://img.shields.io/github/repo-count/Latin-PZ?style=flat-square&label=repos&color=blue)](https://github.com/Latin-PZ?tab=repositories)
-[![Since](https://img.shields.io/badge/on%20GitHub-since%202018-181717?style=flat-square&logo=github)](https://github.com/Latin-PZ)
+[![Repos](https://img.shields.io/github/repo-count/pz-forge?style=flat-square&label=repos&color=blue)](https://github.com/pz-forge?tab=repositories)
+[![Since](https://img.shields.io/badge/on%20GitHub-since%202018-181717?style=flat-square&logo=github)](https://github.com/pz-forge)
 
 </div>
 
@@ -27,19 +27,19 @@
 
 | 项目 | 说明 |
 |---|---|
-| **[workbuddy2api-hub](https://github.com/Latin-PZ/workbuddy2api-hub)** | WorkBuddy 国际/国内多账号反代网关，支持 Codex、Claude Code、DSH 与标准 OpenAI 客户端 |
+| **[workbuddy2api-hub](https://github.com/pz-forge/workbuddy2api-hub)** | WorkBuddy 国际/国内多账号反代网关，支持 Codex、Claude Code、DSH 与标准 OpenAI 客户端 |
 
 ### 安全与逆向
 
 | 项目 | 说明 |
 |---|---|
-| **[RaiDrive-AdGuard](https://github.com/Latin-PZ/RaiDrive-AdGuard)** | 干掉 RaiDrive Mount 的开机广告弹窗。WinEvent 钩子按住 WebView2 广告外壳，画出之前就关掉。不碰原程序，不破签名 |
+| **[RaiDrive-AdGuard](https://github.com/pz-forge/RaiDrive-AdGuard)** | 干掉 RaiDrive Mount 的开机广告弹窗。WinEvent 钩子按住 WebView2 广告外壳，画出之前就关掉。不碰原程序，不破签名 |
 
 ### 工具与创作
 
 | 项目 | 说明 |
 |---|---|
-| **[LumaRescue](https://github.com/Latin-PZ/LumaRescue)** | 面向 Codex / 豆包桌面版的 AI 废片拯救技能，光影重塑、构图重构、修复与审美增强 |
+| **[LumaRescue](https://github.com/pz-forge/LumaRescue)** | 面向 Codex / 豆包桌面版的 AI 废片拯救技能，光影重塑、构图重构、修复与审美增强 |
 
 ## 手边的东西
 
